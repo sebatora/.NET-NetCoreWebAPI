@@ -1,0 +1,32 @@
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\bin\Debug\net6.0\appsettings.Development.json
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\bin\Debug\net6.0\appsettings.json
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\bin\Debug\net6.0\NetCore Web Api.exe
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\bin\Debug\net6.0\NetCore Web Api.deps.json
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\bin\Debug\net6.0\NetCore Web Api.runtimeconfig.json
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\bin\Debug\net6.0\NetCore Web Api.dll
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\bin\Debug\net6.0\NetCore Web Api.pdb
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\NetCore Web Api.csproj.AssemblyReference.cache
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\NetCore Web Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\NetCore Web Api.AssemblyInfoInputs.cache
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\NetCore Web Api.AssemblyInfo.cs
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\NetCore Web Api.csproj.CoreCompileInputs.cache
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\NetCore Web Api.MvcApplicationPartsAssemblyInfo.cs
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\NetCore Web Api.MvcApplicationPartsAssemblyInfo.cache
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\staticwebassets\msbuild.NetCore Web Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\staticwebassets\msbuild.build.NetCore Web Api.props
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NetCore Web Api.props
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NetCore Web Api.props
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\scopedcss\bundle\NetCore Web Api.styles.css
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\NetCore Web Api.csproj.CopyComplete
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\NetCore Web Api.dll
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\refint\NetCore Web Api.dll
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\NetCore Web Api.pdb
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\NetCore Web Api.genruntimeconfig.cache
+E:\visualstudio\repos\NetCore Web Api\NetCore Web Api\obj\Debug\net6.0\ref\NetCore Web Api.dll
